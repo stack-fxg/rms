@@ -1,3 +1,4 @@
 add first time by stack
 update test.txt first time by stack on dev
 conflict bug on bug-001 by stack
+stack test stash on dev first time
